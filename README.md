@@ -4,7 +4,6 @@ A practical SOC home lab based on the **Wazuh SOC Analyst Challenge** playlist b
 
 This repository documents the lab build and the analyst workflow: deploy Wazuh, connect Windows telemetry through an agent and Sysmon, generate and review events, create a SOC dashboard, configure File Integrity Monitoring (FIM), build detection rules, use Active Response, and investigate alerts.
 
-> **Important:** This is an independent learning repository based on the public tutorial sequence. It is not an official MyDFIR repository and does not contain the creator's video files or claim to reproduce every on-screen command. Record the exact commands, versions, and settings you personally verify while following the videos.
 
 ## Learning objectives
 
