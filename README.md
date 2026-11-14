@@ -1,4 +1,4 @@
-# Wazuh SOC Analyst Challenge
+# Wazuh SOC Analyst 
 
 A practical SOC home lab based on the **Wazuh SOC Analyst Challenge** playlist by [MyDFIR](https://www.youtube.com/@MyDFIR).
 
